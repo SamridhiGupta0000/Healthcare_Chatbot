@@ -1,2 +1,3 @@
 # Healthcare_Chatbot
 Sem 3 Project
+The primary purpose of the chatbot is to create a helpful and user-friendly tool that can understand users' health concerns and provide useful advice. Many people look up their health symptoms online. This can lead to confusion and worry because websites can be hard to understand or might be wrong. The Healthcare Chatbot aims to assist users in identifying possible health conditions based on their symptoms and provide reliable responses to basic health-related questions. The system uses natural language processing (NLP) and a medical knowledge base to input user queries and provide precautions and results. 
