@@ -1,0 +1,21 @@
+Disease,Symptoms,Min_Duration,Max_Duration,Severity
+Stress,headache; anxiety and sweating;fast heartbeat;sleep problems,1,60,Mild
+Common Cold,runny nose;sore throat;headache;cough,1,7,Mild
+viral fever,fever;body ache;fatigue;chills,1,14,Mild
+Diabetes,frequent urination;increased thirst;blurred vission;fatigue,30,365,Severe
+Seasonal Allergy,sneezing;itching;runny nose;watery eyes,1,30,Mild
+Migraine,headache;nausea;light sensitivity,1,3,Moderate
+Typhoid,fever;abdominal pain;fatigue;nausea,4,30,Moderate
+Malaria,fever;chills;body pain;vomiting,3,21,Moderate
+Dengue,high fever;body pain;joint pain;vomiting,3,21,Severe
+Tuberculosis,chronic cough;weight loss;fever;night sweats,14,365,Severe
+Bronchitis,cough;chest discomfort;fatigue,3,14,Moderate
+Appendicitis,abdominal pain;fever;loss of appetite;vomiting,1,7,Severe
+UTI,frequent urination;pelvic pain;burning urination;cloudy urine,1,14,Moderate
+Tonsillitis,throat pain;fever;difficulty swallowing;ear pain,1,7,Moderate
+Hepatitis B,jaundice;fatigue;abdominal pain;nausea,7,90,Severe
+Stress,anxiety;sweating;fast heartbeat;sleep problems,1,60,Mild
+Chickenpox,blisters;itching;fever;fatigue,3,21,Moderate
+Pneumonia,fever;cough;breathing difficulty;chest pain,3,21,Severe
+Gastroenteritis,vomiting;diarrhea;stomach cramps;dehydration,1,5,Mild
+Food Poisoning,nausea;vomiting;diarrhea;stomach pain,1,7,Mild
